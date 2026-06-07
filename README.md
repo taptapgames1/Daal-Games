@@ -76,7 +76,7 @@ section {
 <section id="games">
     <h1>Our Games</h1>
     <div class="game-grid">
-        <div class="game"><img src="[https://play-lh.googleusercontent.com/ERDu0Q6wgP6vi4sDn22tfikLEOD1AFie_vbU5dZB5oQq5RpT-IzYLxs7zF29_vNQ-cHdGzuVX9ztyDIG5YVH=w480-h960]"><p>Room Escape</p></div>
+        <div class="game"><img src="https://play-lh.googleusercontent.com/ERDu0Q6wgP6vi4sDn22tfikLEOD1AFie_vbU5dZB5oQq5RpT-IzYLxs7zF29_vNQ-cHdGzuVX9ztyDIG5YVH=w480-h960"><p>Room Escape</p></div>
         <div class="game"><img src="https://play-lh.googleusercontent.com/iK60hJInXfyvqYCCHXh1YiS0VGK3iWe_M0DiwlAGYHZDrAB1mMZfLwoW3QkAw7ikdYrGI4FQ9YinNBaqZQ0pLw=w480-h960-rw"><p>Taxi Driver VR</p></div>
         <div class="game"><img src="https://play-lh.googleusercontent.com/24ZYFEKHmZIDc9gHpwAGkFeAbu2E_UIG37KuJy9zPOiNwz0eX5dFFMQF_RnI3JtdKi4=w480-h960"><p>Prison Escape</p></div>
         <div class="game"><img src="https://play-lh.googleusercontent.com/6lAkKAffFkNh0zEqsW-omE8pDpQyiCi1u9iwWTB-SP0QH6vO0d6Bir49qpE709P6qGP5BU0SlsamJmCx6SD3=w480-h960"><p>Monkey Pranks</p></div>
